@@ -45,6 +45,3 @@ Data Analysis and Visualization
 2. After downloading the data, you can start the analysis and visualization script:
 
   3_Project.ipynb
-
-
-![image](https://github.com/user-attachments/assets/81b622b3-17cf-4ffa-81cb-d242419ddc67)
