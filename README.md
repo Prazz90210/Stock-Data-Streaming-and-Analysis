@@ -40,8 +40,8 @@ Data Analysis and Visualization
 
 1. Run the following script to download historical stock data for analysis:
 
-  datadownload.ipynb
+    datadownload.ipynb
 
 2. After downloading the data, you can start the analysis and visualization script:
 
-  3_Project.ipynb
+    3_Project.ipynb
