@@ -1,4 +1,4 @@
-Real-Time Stock Data Streaming and Analysis
+**Real-Time Stock Data Streaming and Analysis**
 
 This project builds a real-time data streaming architecture. Apache Kafka, Zookeeper, and Python are used for fetching, processing, and analyzing stock price data. The setup of Kafka and Zookeeper servers, a Kafka producer for fetching stock data from APIs, Kafka consumers for consuming and storing the data, and Python scripts for data analysis and visualization is required.
 
