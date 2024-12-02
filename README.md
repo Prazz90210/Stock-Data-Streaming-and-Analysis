@@ -1,6 +1,6 @@
 **Real-Time Stock Data Streaming and Analysis**
 
-This project builds a real-time data streaming architecture. Apache Kafka, Zookeeper, and Python are used for fetching, processing, and analyzing stock price data. The setup of Kafka and Zookeeper servers, a Kafka producer for fetching stock data from APIs, Kafka consumers for consuming and storing the data, and Python scripts for data analysis and visualization is required.
+**FinalProjectBigData.docx.pdf:** This paper describes a real-time stock prediction project that integrates Hadoop, Kafka, and PySpark to develop a scalable solution for analyzing financial data. The authors created an ETL pipeline to process historical and real-time stock data, implementing three technical analysis indicators (Moving Average, Relative Strength Index, and Bollinger Bands) to predict stock trends, with a specific focus on analyzing Nvidia and Tesla stocks. The project aims to address limitations in existing stock prediction methods by leveraging distributed computing, real-time data streaming, and advanced analytics to provide more accurate and timely insights for investors.
 
 Prerequisites
 
@@ -45,3 +45,5 @@ Data Analysis and Visualization
 2. After downloading the data, you can start the analysis and visualization script:
 
     3_Project.ipynb
+
+
